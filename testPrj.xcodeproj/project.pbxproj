@@ -67,11 +67,11 @@
 				C0118D2A1F499E0A000B7A4F /* YTHA.swift */,
 				2CC63F741F499F2C0013D5F4 /* phh.swift */,
 				2CC63F761F499FA40013D5F4 /* MAH.swift */,
+				1C9E67701F499C5E00883131 /* MAE.swift */,
 				2CC63F641F4995EC0013D5F4 /* Main.storyboard */,
 				2CC63F671F4995EC0013D5F4 /* Assets.xcassets */,
 				2CC63F691F4995EC0013D5F4 /* LaunchScreen.storyboard */,
 				2CC63F6C1F4995EC0013D5F4 /* Info.plist */,
-				1C9E67701F499C5E00883131 /* MAE.swift */,
 			);
 			path = testPrj;
 			sourceTree = "<group>";
