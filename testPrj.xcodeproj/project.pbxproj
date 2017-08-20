@@ -12,6 +12,7 @@
 		2CC63F661F4995EC0013D5F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F641F4995EC0013D5F4 /* Main.storyboard */; };
 		2CC63F681F4995EC0013D5F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F671F4995EC0013D5F4 /* Assets.xcassets */; };
 		2CC63F6B1F4995EC0013D5F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F691F4995EC0013D5F4 /* LaunchScreen.storyboard */; };
+		C0118D2B1F499E0A000B7A4F /* YTHA.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0118D2A1F499E0A000B7A4F /* YTHA.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2CC63F671F4995EC0013D5F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CC63F6A1F4995EC0013D5F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CC63F6C1F4995EC0013D5F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0118D2A1F499E0A000B7A4F /* YTHA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YTHA.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2CC63F601F4995EC0013D5F4 /* AppDelegate.swift */,
 				2CC63F621F4995EC0013D5F4 /* ViewController.swift */,
+				C0118D2A1F499E0A000B7A4F /* YTHA.swift */,
 				2CC63F641F4995EC0013D5F4 /* Main.storyboard */,
 				2CC63F671F4995EC0013D5F4 /* Assets.xcassets */,
 				2CC63F691F4995EC0013D5F4 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2CC63F631F4995EC0013D5F4 /* ViewController.swift in Sources */,
+				C0118D2B1F499E0A000B7A4F /* YTHA.swift in Sources */,
 				2CC63F611F4995EC0013D5F4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +303,7 @@
 				2CC63F711F4995EC0013D5F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
