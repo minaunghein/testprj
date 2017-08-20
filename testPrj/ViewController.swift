@@ -15,23 +15,17 @@ class ViewController: UIViewController {
      
         // Do any additional setup after loading the view, typically from a nib.
         
-<<<<<<< HEAD
+
         //MAH
         //MAE
         //Hello I am Mae Rupa. How are you?
-=======
-        
-        
-        
         
         
         
         //YTHA
         
-        
-    
->>>>>>> dfc3d4775f134b7b22f2eefb133d7fa76a744ec8
     }
+
     
     
     override func didReceiveMemoryWarning() {
