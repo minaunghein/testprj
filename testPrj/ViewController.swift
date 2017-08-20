@@ -12,14 +12,28 @@ class ViewController: UIViewController {
     var testData = 3
     override func viewDidLoad() {
         super.viewDidLoad()
+     
         // Do any additional setup after loading the view, typically from a nib.
         
+<<<<<<< HEAD
         //MAH
         //MAE
         //Hello I am Mae Rupa. How are you?
+=======
+        
+        
+        
+        
+        
+        
+        //YTHA
+        
+        
+    
+>>>>>>> dfc3d4775f134b7b22f2eefb133d7fa76a744ec8
     }
-
-    //hello testing 
+    
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3F4B3EEC70ECDA5B04E1BB5DBA87C82B7F6EDD61",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3F4B3EEC70ECDA5B04E1BB5DBA87C82B7F6EDD61" : 9223372036854775807,
+    "78EE64BADE21AE86836EA72B701585CA09F9931D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A8FA665A-8287-40BB-A703-9E7434EEA7DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3F4B3EEC70ECDA5B04E1BB5DBA87C82B7F6EDD61" : "testprj\/",
+    "78EE64BADE21AE86836EA72B701585CA09F9931D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "testPrj",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "testPrj.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/minaunghein\/testprj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3F4B3EEC70ECDA5B04E1BB5DBA87C82B7F6EDD61"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com\/MaeRupa\/gittest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "78EE64BADE21AE86836EA72B701585CA09F9931D"
+    }
+  ]
+}
