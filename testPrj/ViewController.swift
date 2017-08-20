@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         //MAH
         //MAE
+        //Hello I am Mae Rupa. How are you?
     }
 
     //hello testing 
