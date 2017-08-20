@@ -12,6 +12,7 @@
 		2CC63F661F4995EC0013D5F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F641F4995EC0013D5F4 /* Main.storyboard */; };
 		2CC63F681F4995EC0013D5F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F671F4995EC0013D5F4 /* Assets.xcassets */; };
 		2CC63F6B1F4995EC0013D5F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC63F691F4995EC0013D5F4 /* LaunchScreen.storyboard */; };
+		CB7C4AE11F499BDB004F4198 /* phh.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB7C4AE01F499BDB004F4198 /* phh.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2CC63F671F4995EC0013D5F4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CC63F6A1F4995EC0013D5F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CC63F6C1F4995EC0013D5F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB7C4AE01F499BDB004F4198 /* phh.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = phh.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				2CC63F671F4995EC0013D5F4 /* Assets.xcassets */,
 				2CC63F691F4995EC0013D5F4 /* LaunchScreen.storyboard */,
 				2CC63F6C1F4995EC0013D5F4 /* Info.plist */,
+				CB7C4AE01F499BDB004F4198 /* phh.swift */,
 			);
 			path = testPrj;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				2CC63F631F4995EC0013D5F4 /* ViewController.swift in Sources */,
 				2CC63F611F4995EC0013D5F4 /* AppDelegate.swift in Sources */,
+				CB7C4AE11F499BDB004F4198 /* phh.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				2CC63F711F4995EC0013D5F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
